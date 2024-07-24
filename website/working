@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+ <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Registrtion Form</title>
+    <link rel="stylesheet" href="style.css">
+    <body>
+      <h1>Registrtion Form</h1>
+      <p>Registrtion Form</p>
+    </body>
+
+  </head>
